@@ -1,3 +1,1 @@
-correctness_results/tpcds filter=lfs diff=lfs merge=lfs -text
-correctness_results/tpch filter=lfs diff=lfs merge=lfs -text
 correctness_results/** filter=lfs diff=lfs merge=lfs -text
